@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TempConvert';
+
+  fahrenheit:number=0;
+  celsius:number=0;
 }
